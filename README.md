@@ -7,11 +7,11 @@ and client as well as crosschain gateway service have to be setup and deployed.
 Fortunately, the services are all packaged up as kubernetes services at CoinXP and version managed by Helm. Therefore 
 requires minimum to no efforts to get them running in a real production environment. 
 
-## Why not letting CoinXP Setting Up EVERYTHING? Centralized v.s. Decentralized
+## Why NOT letting CoinXP Setting Up EVERYTHING? Centralized v.s. Decentralized
 I would like to elaborate on the purpose and motivation of this article before venturing into the detailed technology discussions. One question we frequently got from our partners is why not letting CoinXP setting up everything for them. 
 It is a valid question and desires some further discussion. The root motivation for this setup is to preserve all 
-credentials/permissions/architectures under complete control of yourself. The only thing that couples your exchange with CoinXP public blockchain should be the producer account name and block producer endpoints for inter-node communications. CoinXP is a Public Blockchain infrastructure service. One of its core values is build and contribue to the decentralized blockchain world. You can certainly ask CoinXP to setup everything for you. In that case, you are placing your fate fully under the control of CoinXP. As a pioneer of the decentralized blockchain world, we strongly suggest you against this setup. 
-In comparision, you can think of this set up as setting up your own [Mastodon](https://mastodon.social/about) instance (open source, decentralized version of twitter) instead of open an account in twitter.
+credentials/permissions/architectures under complete control of yourself. The only thing that couples your exchange with CoinXP public blockchain should be the producer account name and block producer endpoints for inter-node communications. CoinXP is a Public Blockchain infrastructure service. One of its core values is to build and contribue to the decentralized blockchain world. You can certainly ask CoinXP to setup everything for you. In that case, you are placing your fate fully under the control of CoinXP. As a pioneer of the decentralized blockchain world, we strongly suggest you against this setup. 
+In comparision, you can think of this set up as setting up your own [Mastodon](https://mastodon.social/about) instance (open source, decentralized version of twitter) instead of opening an account with twitter.
 
 ## Become a Block Producer
 In order to become a CoinXP Public Blockchain producer, you have to get the approval from the committee. 
