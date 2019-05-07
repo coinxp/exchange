@@ -7,7 +7,7 @@ and client as well as crosschain gateway service have to be setup and deployed.
 Fortunately, the services are all packaged up as kubernetes services at CoinXP and version managed by Helm. Therefore 
 requires minimum to no efforts to get them running in a real production environment. 
 
-## Why NOT letting CoinXP Setting Up EVERYTHING? Centralized v.s. Decentralized
+## Why NOT letting CoinXP Set Up EVERYTHING? Centralized v.s. Decentralized
 I would like to elaborate on the purpose and motivation of this article before venturing into the detailed technology discussions. One question we frequently got from our partners is why not letting CoinXP setting up everything for them. 
 It is a valid question and desires some further discussion. 
 
