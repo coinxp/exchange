@@ -8,7 +8,7 @@ Fortunately, the services are all packaged up as kubernetes services at CoinXP a
 requires minimum to no efforts to get them running in a real production environment. 
 
 ## Why NOT letting CoinXP Set Up EVERYTHING? Centralized v.s. Decentralized
-I would like to elaborate on the purpose and motivation of this article before venturing into the detailed technology discussions. One question we frequently got from our partners is why not letting CoinXP setting up everything for them. 
+I would like to elaborate on the purpose and motivation of this article before venturing into the detailed technology discussions. One question we frequently got from our partners is why not letting CoinXP set up everything for them. 
 It is a valid question and desires some further discussion. 
 
 The root motivation for this setup is to preserve all 
