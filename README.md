@@ -35,7 +35,7 @@ However, we do find a couple of limitations that prevented us from adopting it d
 2. Use self managed kubernetes cluster with [kops](https://github.com/kubernetes/kops). 
 Kops is a mature tool for deploying and managing kubernetes cluster on AWS. 
 There are many online resources for setting up a basic cluster with kops on AWS. 
-There is also on tutorial from CoinXP for [Deploying Secure and Highly Available Block Producers on AWS with Kops](https://medium.com/@weijia.che/deploying-secure-and-highly-available-block-producers-on-aws-with-kops-c6956831c048)
+There is also one tutorial from CoinXP for [Deploying Secure and Highly Available Block Producers on AWS with Kops](https://medium.com/@weijia.che/deploying-secure-and-highly-available-block-producers-on-aws-with-kops-c6956831c048)
 
 ### Deploy Block Producer as a Service
 The second step of becoming a CoinXP Public Blockchain producer is to deploy the block producer as a service and join the producer schedule. 
