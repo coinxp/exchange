@@ -85,7 +85,7 @@ Again, we will provide instructions for each phase.
 ## Participate In the Voting of Crosschain Digital Assets Custody
 CoinXP's crosschain digital assets custody and block producers are packaged as different services. 
 This is to guarantee the highest availability for block producers and decouple the design concerns. 
-An article for all the voting take place in CoinXP's crosschain digital assets custody can be found here 
+An article for all the voting considerations taking place in CoinXP's crosschain digital assets custody can be found here 
 [Building Secure and Highly Available Bridges Between Crypto Islands](https://medium.com/@weijia.che/building-secure-and-highly-available-bridges-between-crypto-islands-a209555a387c).
 In a nutshell, every operation in the crosschain digital assets custody will require the majority of the block producers to reach consensus.
 
