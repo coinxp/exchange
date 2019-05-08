@@ -65,7 +65,7 @@ Again, we will provide instructions for each phase.
         **NOTE:** _Deploying the block producer service will automatically create credentials files such as 
         wallet password, producer public key, producer private key in the [AWS Secret Manager Service](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html). 
         You will have to grant the kubernetes pod's role (AWS role) the permission to access [AWS Secret Manager Service](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html).
-        In this way, only in your private VPC cluster, and execute as with kubernetes pod's role, the secrets are accessible. 
+        In this way, only in your private VPC cluster, and executing with kubernetes pod's role, the secrets are accessible. 
         This is to ensure the maximum security of cluster secrets. 
         In no place, the secrets are revealed in any manual process. 
         The secrets are created/managed inside the VPC cluster with strict RBAC control (role based access control)._ 
