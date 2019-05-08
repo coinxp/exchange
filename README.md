@@ -119,7 +119,7 @@ There are 5 services involved with bring up the whole set of service.
    - Bank Server: This is the service that powers Bank UI. It connects Bank UI with Web Link, CoinXP blockchain, and the user account system.
    - Socket: This is the service that powers the marketplace with the latest price for each crypto asset. 
    
-To bring up the services are fairly simple. All the services are already packaged and managed by kubernetes and helm. 
+The steps to bring up the services are fairly simple. All the services are already packaged and managed by kubernetes and helm. 
     
     cd helm/charts/webui (weblink, bankui, bankserver, or socket)
     helm install ./chart -f ./chart/values.yaml --name coinxp-webui (weblink, bankui, bankserver, or socket)
