@@ -115,7 +115,7 @@ There are 5 services involved with bring up the whole set of service.
 
    - Web UI (exchange): This is the service that users interact with. It has the marketplace. User can check prices, orders, buy/sell their crypto assets. 
    - Web Link (exchange): This is the service that powers the WebUI. It connects the Web UI with CoinXP blockchain and the user account system. 
-   - Bank UI: This is the personal bank UI. User can use it as a code wallet, whereas, the account system in WebUI as hot wallet. 
+   - Bank UI: This is the personal bank UI. User can use it as a cold wallet, whereas, the account system in WebUI as hot wallet. 
    - Bank Server: This is the service that powers Bank UI. It connects Bank UI with Web Link, CoinXP blockchain, and the user account system.
    - Socket: This is the service that powers the market with the latest price for each crypto asset. 
    
