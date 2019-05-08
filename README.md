@@ -17,7 +17,7 @@ In comparision, you can think of this set up as setting up your own [Mastodon](h
 
 ## Become a Block Producer
 In order to become a CoinXP Public Blockchain producer, you have to get the approval from the committee. 
-This a an offline process. The following instructions assume that you have applied to become a CoinXP block producer and 
+This an offline process. The following instructions assume that you have applied to become a CoinXP block producer and 
 received the approval as required. 
 
 ### Set Up a Secure and Highly Available Kubernetes Cluster
