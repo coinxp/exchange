@@ -42,7 +42,7 @@ The second step of becoming a CoinXP Public Blockchain producer is to deploy the
 Again, we will provide instructions for each phase. 
 
 1. Deploy the producer as a service. Since the block producer is already packaged as a kubernetes service,
- the only thing required is simple deployed similar to install a software on a computer. 
+ the only thing required is very simple, similar to install a software on a computer. 
  Only, in this case, you will deploy a kubernetes service on a kubernetes service using helm. 
  The kubernetes service is available as a software package in CoinXP's public repository [coinxp/helm](https://github.com/coinxp/helm). 
     - Install helm client. Instructions can be found here [nstalling Helm](https://helm.sh/docs/using_helm/#installing-helm).
