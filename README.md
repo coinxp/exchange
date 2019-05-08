@@ -2,10 +2,10 @@
 
 Setting up an Exchange with CoinXP Public Blockchain involves becoming a block producer of CoinXP Public Blockchain.
 To enable user engagement and participate in the voting for crosschain digital assets custody, additional ui side server
-and client as well as crosschain gateway service have to be setup and deployed. 
+and client as well as crosschain gateway service have to be set up and deployed. 
 
 Fortunately, the services are all packaged up as kubernetes services at CoinXP and version managed by Helm. Therefore 
-requires minimum to no efforts to get them running in a real production environment. 
+requires minimum to no effort to get them running in a real production environment. 
 
 ## Why NOT letting CoinXP Set Up EVERYTHING? Centralized v.s. Decentralized
 I would like to elaborate on the purpose and motivation of this article before venturing into the detailed technology discussions. One question we frequently got from our partners is why not letting CoinXP set up everything for them. 
