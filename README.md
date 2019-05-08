@@ -45,7 +45,7 @@ Again, we will provide instructions for each phase.
  the only thing required is very simple, similar to install a software on a computer. 
  Only, in this case, you will deploy a kubernetes service on a kubernetes service using helm. 
  The kubernetes service is available as a software package in CoinXP's public repository [coinxp/helm](https://github.com/coinxp/helm). 
-    - Install helm client. Instructions can be found here [nstalling Helm](https://helm.sh/docs/using_helm/#installing-helm).
+    - Install helm client. Instructions can be found here [installing Helm](https://helm.sh/docs/using_helm/#installing-helm).
     - Clone the [coinxp/helm](https://github.com/coinxp/helm) repository. 
         ```
         cd helm/charts/nodeosd
