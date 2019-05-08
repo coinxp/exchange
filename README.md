@@ -113,7 +113,7 @@ In a nutshell, every operation in the crosschain digital assets custody will req
 CoinXP team also provides a set of packaged services for partners to quickly bring up their own exchanges with personal bank. 
 There are 5 services involved with bring up the whole set of service. 
 
-   - Web UI (exchange): This is the service that user interact with. It has the marketplace. User can check prices, orders, buy/sell their crypto assets. 
+   - Web UI (exchange): This is the service that users interact with. It has the marketplace. User can check prices, orders, buy/sell their crypto assets. 
    - Web Link (exchange): This is the service that powers the WebUI. It connects the Web UI with CoinXP blockchain and the user account system. 
    - Bank UI: This is the personal bank UI. User can use it as a code wallet, whereas, the account system in WebUI as hot wallet. 
    - Bank Server: This is the service that powers Bank UI. It connects Bank UI with Web Link, CoinXP blockchain, and the user account system.
