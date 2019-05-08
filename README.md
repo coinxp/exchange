@@ -75,7 +75,7 @@ Again, we will provide instructions for each phase.
  It will only receive blocks from existing block producers but not producing anything. 
  In order to join as a block producer, as stated in the previous section, you will have to gain approval from the CoinXP 
  public blockchain committee. Once the approval is granted, the committee can elect the producer to start producing blocks. 
- This only thing you need to provide in the step is the name of the producer account, e.g. _bph_ in the example. 
+ The only thing you need to provide in this step is the name of the producer account, e.g. _bph_ in the example. 
  
     **NOTE:** Again, we recommend using AWS to deployment your physical kubernetes cluster. 
     And CoinXP will pair up your cluster with existing CoinXP VPC clusters with [VPC peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html). 
